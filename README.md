@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmc-au
+- 👋 Hi, I’m Dave
 - 👀 I’m interested in STEM and creative thinking
 - 🌱 I’m currently learning about cloud computing and artificial intelligence
 - 💞️ I’m looking to collaborate on real world problems using state of the art technologies
